@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Le, this is a good start to your paper. Going forward, having a bit more on the the process of Ohmic heating as well the containment. While the general statements about how this works is useful, having more details on the experience of a single particle would be good. That would help us make sense of confinement more generally.
+
+16/20
+
 ## Assignment 3
 
 Le, great summaries again. "magnetic bottle donut." I'm dead. But you are basically correct. I think you don't have to dive into MHD unless you want to. There's a lot of analysis on how to contain a free electron in a magnetic bottle or donut. So you could present a simple model that convinces you and me that it's possible and then talk about how the plasma is handled in the literature. That's just a thought  for a direction to avoid you making this a thesis project. Great work.
