@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Le, excellent update, especially on the parts of the single particle motion. I think it's time to start working on the full draft of the paper that includes your conclusion. Great work!
+
+20/20
+
 ## Assignment 4
 
 Le, this is a good start to your paper. Going forward, having a bit more on the the process of Ohmic heating as well the containment. While the general statements about how this works is useful, having more details on the experience of a single particle would be good. That would help us make sense of confinement more generally.
