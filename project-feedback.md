@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Le, this is a great paper. I think you should spend a little time adding some discussion on the limitation of this basic model and make reference to better models. No need to go into detail, but rather to demonsrtate that you have selected a specific direction, but know that they are others. Great job.
+
+20/20
+
 ## Assignment 5
 
 Le, excellent update, especially on the parts of the single particle motion. I think it's time to start working on the full draft of the paper that includes your conclusion. Great work!
